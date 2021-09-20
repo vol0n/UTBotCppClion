@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vol0n.utbotcppclion.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vol0n.utbotcppclion.MyBundle
 
 class MyApplicationService {
 
